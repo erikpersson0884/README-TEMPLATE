@@ -5,3 +5,7 @@
 ![Github licence](https://img.shields.io/badge/licence-CC-important?style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/erikpersson0884/REPO-TEMPLATE?style=flat-square)
 ![GitHub repo size](https://img.shields.io/github/repo-size/erikpersson0884/REPO-TEMPLATE?style=flat-square)
+
+
+### License:
+**Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**
