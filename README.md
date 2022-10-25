@@ -1,5 +1,5 @@
 # README.md TEMPLATE
-## A template for what erikpersson0884 repos readme.md files should look like
+## A template for what erikpersson0884 repos readme.md file should look like
 
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/erikpersson0884/README-TEMPLATE?color=blue&style=flat-square)
