@@ -1,5 +1,5 @@
 # README.md TEMPLATE
-## A template for what erikpersson0884 repos readme.md file should look like
+## A template for what erikpersson0884 repos README.md file should look like
 
 
 
